@@ -1,9 +1,9 @@
 #container {
-  width: 400px;
-  height: 600px;
+  width: 23.8vw;
+  height: 64vh;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 80px;
+  margin-top: 8.537vh;
   display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 25% 75%;
@@ -14,7 +14,7 @@
   margin-top: auto;
   border-bottom: solid rgba(211,171,255,0.79) 1px;
   text-align: center;
-  height: 110px;
+  height: 11.74vh;
   background-color: white;
   border-radius: 20px 20px 0% 0%;
 }
@@ -62,7 +62,7 @@
 body {
   background: linear-gradient(90deg, rgba(171,173,255,0.79), cornflowerblue, aqua);
   font-family: Lobster;
-  font-size: 17px;
+  font-size: 1.9vh;
   color: indigo;
 }
 #a14 {
